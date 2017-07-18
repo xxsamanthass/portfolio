@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<title> Samantha Bhuiyan </title>
+
+<style>
+
+  h1{
+  font-size: 50px;
+  color: rgb(52,170,229)
+  }
+
+
+
+
+
+
+
+</style>
+
+
+
+</head>
+<body>
+<center>
+  <h1>Samantha Bhuiyan <h/1>
+</center>
+
+<center><a href= "sb0559@bhsec.bard.edu">Contact </a>
+<br>
+<center><img src="s.jpg" height= 200 >
+<br>
+
+
+<br>
+
+<h2> About Me </h2>
+
+
+ <p> Hey I'm Samantha from New York and I'm currently a rising senior at BHSEC. I'm an avid learner and I love taking long walks at night.I love to bake, explore new places and watch movies.  </p>
+<style>
+
+  p {color: rgb(33, 148, 206)}
+  }
+</style>
+<hr> </hr>
+</center>
+</center>
+
+<h3> Experiences </h3>
+<p>
+  <ul>
+    <li> Red Cross Club
+    <li> Diversity Initiative
+    <li> Girls Who Code Club
+    <li> Student Ambassador
+    <li> Peer Mentor
+    <li> Peer Tutor
+    <li> SAYA
+
+
+
+
+</body>
+
+</html>
